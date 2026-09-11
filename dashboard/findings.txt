@@ -1,0 +1,7 @@
+KEY FINDINGS
+============
+
+- Monthly revenue trend: slope of $-951/month (declining). Forecast next 3 months: ['$287,449', '$286,498', '$285,547']
+- Top region by revenue: West ($3,597,549, 55.2% margin).
+- Top 10 clients account for 5.9% of total revenue out of 795 total clients -- a concentration risk worth flagging.
+- Highest-margin category: Furniture (59.9% avg margin).
